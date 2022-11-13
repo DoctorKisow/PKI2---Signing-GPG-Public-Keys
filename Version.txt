@@ -1,0 +1,8 @@
+Signing GPG Keys
+Copyright (CC-BY-NC-SA v4.0) Matthew R. Kisow, D.Sc. 2021-2022.
+
+Version Control Document.
+
+Version 		Description						Date                    Filename
+1.0         		Signing GPG Keys					09-JUN-2022             Signing GPG Keys.docx
+2.0         		Signing GPG Keys					13-OCT-2022             PKI 2 - Signing GPG Keys.docx
